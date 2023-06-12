@@ -1,7 +1,7 @@
-# Masoud ramezani
+# Masoud Ramezani
 ## Front-end Developer
 
-I'm Masoud, a front-end developer living in New Zealand. I have a strong passion for learning languages and frameworks, especially React. I enjoy creating engaging user interfaces and constantly strive to expand my skills in web development.
+I'm a front-end developer living in New Zealand. I have a strong passion for learning languages and frameworks, and enjoy creating engaging user interfaces. I am constantly striving to expand my skills in web development.
 
 ## Skills and Experience
 
