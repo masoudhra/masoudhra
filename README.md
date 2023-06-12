@@ -7,9 +7,5 @@ I'm Masoud, a front-end developer living in New Zealand. I have a strong passion
 ## Skills and Experience
 Skills: REACT / JS / HTML / CSS
  
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react)](https://skills.thijs.gg)
 
