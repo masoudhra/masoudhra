@@ -8,6 +8,6 @@ I'm Masoud, a front-end developer living in New Zealand. I have a strong passion
 Skills: REACT / JS / HTML / CSS
  
 
-
+omid.jpg
 
 
