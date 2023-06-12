@@ -7,7 +7,5 @@ I'm Masoud, a front-end developer living in New Zealand. I have a strong passion
 ## Skills and Experience
 Skills: REACT / JS / HTML / CSS
  
-
-omid.jpg
-
+ci-JS
 
