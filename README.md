@@ -7,5 +7,5 @@ I'm Masoud, a front-end developer living in New Zealand. I have a strong passion
 ## Skills and Experience
 Skills: REACT / JS / HTML / CSS
  
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,git,github,bootstrap,jquery)](https://skills.thijs.gg)
 
