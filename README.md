@@ -1,7 +1,7 @@
 # Masoud Ramezani
-## Front-end Developer
+## Software Engineer
 
-I'm a front-end developer living in New Zealand. I have a strong passion for learning languages and frameworks, and enjoy creating engaging user interfaces. I am constantly striving to expand my skills in web development.
+Motivated software developer with a background in electrical engineering, eager to contribute and grow in the software development field. Skilled in JavaScript, C#, TypeScript, web development (HTML5, CSS3, React.js, Bootstrap, jQuery), and AWS. I have completed several independent projects, sharpening my skills and staying updated with industry trends. Enthusiastic about delivering high-quality solutions, collaborating in Agile environments, and continuously learning. Excited to join a dynamic team and contribute to your organisation's success while advancing my expertise in software development. Thank you for considering my application.
 
 ## Skills and Experience
 
