@@ -6,4 +6,5 @@ I'm a front-end developer living in New Zealand. I have a strong passion for lea
 ## Skills and Experience
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,git,github,bootstrap,jquery,cs)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
