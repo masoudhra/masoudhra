@@ -22,5 +22,7 @@ Motivated software developer with a background in electrical engineering, eager 
  	
 	
 </div>
+## My Projects
+https://crypto-project-omega.vercel.app/
 
 
