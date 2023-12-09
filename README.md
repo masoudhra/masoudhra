@@ -7,6 +7,8 @@ Motivated software developer with a background in electrical engineering, eager 
 
 ### Cryptocurrency project:
 https://crypto-project-omega.vercel.app/
+### Shopping cart project:
+https://shopping-cart-project-alpha.vercel.app/products
 
 ## Skills and Experience
 
