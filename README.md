@@ -6,7 +6,6 @@ Motivated software developer with a background in electrical engineering, eager 
 ## My Projects
 
 ### Cryptocurrency project:
-
 https://crypto-project-omega.vercel.app/
 
 ## Skills and Experience
